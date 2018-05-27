@@ -1,1 +1,1 @@
-cat log | head -n 5
+sudo cat log | head -n 5
