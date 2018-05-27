@@ -1,2 +1,2 @@
-du -b ~/* | sort -n | head -n 5
+sudo find ~ -type f | xargs du -b | sort -n | head -n 5
 
